@@ -1,0 +1,6 @@
+{
+  "publicComponents": {
+    "dropdownmenu":"components/dropdownmenu/dropdownmenu"
+  },
+  "main": "index.js"
+}
